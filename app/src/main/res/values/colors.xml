@@ -5,4 +5,6 @@
     <color name="colorAccent">#03DAC5</color>
     <color name="colorBackground">#84c0c5</color>
     <color name="colorText">#ffffff</color>
+    <color name="col_white">#ffffff</color>
+    <color name="color_ruble">#000000</color>
 </resources>
